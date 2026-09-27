@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    [
+      {
+        "name": "ability_progression:unlocked_ability",
+        "args": {
+          "ability": "mineminenomi:gear_fifth"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DF-Progression
+MixinConfigs: fruit_progression.mixin.json
+Implementation-Version: 0.1
+Specification-Vendor: ability_progressionsareus
+Specification-Title: ability_progression
+Implementation-Timestamp: 2025-08-17T15:57:19+0300
+Specification-Version: 1
+Implementation-Vendor: ability_progressionsareus
+

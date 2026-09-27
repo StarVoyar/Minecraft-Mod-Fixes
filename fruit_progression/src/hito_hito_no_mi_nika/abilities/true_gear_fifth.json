@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    [
+      {
+        "name": "ability_progression:awakening",
+        "args": {}
+      },
+      {
+        "name": "ability_progression:unlocked_ability",
+        "args": {
+          "ability": "hito_hito_no_mi_nika:true_gear_fourth_boundman"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.warcar.fruit_progression.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ContinuousComponentMixin",
+    "DevilFruitDataMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.fruit_progression.refmap.json"
+}
