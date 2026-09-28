@@ -2,10 +2,8 @@
   "requirements": [
     [
       {
-        "name": "ability_progression:unlocked_ability",
-        "args": {
-          "ability": "hito_hito_no_mi_nika:true_gear_second"
-        }
+        "name": "ability_progression:default",
+        "args": {}
       }
     ]
   ]
